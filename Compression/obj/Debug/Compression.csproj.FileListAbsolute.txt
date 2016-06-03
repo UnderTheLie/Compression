@@ -1,0 +1,6 @@
+E:\Documents\Compression\Compression\bin\Compression.dll.config
+E:\Documents\Compression\Compression\bin\Compression.dll
+E:\Documents\Compression\Compression\bin\Compression.pdb
+E:\Documents\Compression\Compression\obj\Debug\Compression.csprojResolveAssemblyReference.cache
+E:\Documents\Compression\Compression\obj\Debug\Compression.dll
+E:\Documents\Compression\Compression\obj\Debug\Compression.pdb
